@@ -54,9 +54,9 @@ required-features = ["frobnicate"]
 
 ### Examples
 
-Files located under the [`examples` directory][package layout] are example
-uses of the functionality provided by the library. When compiled, they are
-placed in the [`target/debug/examples` directory][build cache].
+Files located under the [`examples` directory][package layout] are examples of
+the functionality provided by the library. When compiled, they are placed in
+the [`target/debug/examples` directory][build cache].
 
 Examples can use the public API of the package's library. They are also linked
 with the [`[dependencies]`][dependencies] and
